@@ -2,6 +2,7 @@
  Painting Style transfer is a computer vision/optimization technique that takes two images:- a content image and a style reference image—and blends them together so that the resulting output image retains the core elements of the content image, but appears to be “painted” in the style of the style reference image.
 # A Neural Algorithm of Artistic Style”
  In this approach we used a VGG network with function to combine both the style and content loss and then by optimizing this loss in one iteration we will reduce the style and content loss thus making the produced image better.
+ 
 Link to Research paper: ​https://arxiv.org/pdf/1508.06576.pdf
 
 # Major Disadvantage:
