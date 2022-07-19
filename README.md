@@ -34,6 +34,7 @@ Link to Research paper: ​https://arxiv.org/pdf/1508.06576.pdf
 
 ### Test Results:
 I tested using ​ The Starry Night ​painting by ​ Vincent van Gogh ​ (suggested) as style image and an Picture of a valley in a hilly area as content image.
+
 **Style Image**  : https://artsandculture.google.com/asset/the-starry-night/bgEuwDxel93-Pg?hl=en-GB&avm=
 
 **Content Image**: https://www.flickr.com/photos/jeffdai/24778020652/
