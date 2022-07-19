@@ -7,8 +7,8 @@ Link to Research paper: ​https://arxiv.org/pdf/1508.06576.pdf
 # Major Disadvantage:
  The overall process is very slow and takes too much time for a single image thus creating real time applications is not possible using this approach. ● For processing a single image on non gpu accelerated systems it take 4 to 5 hours. On my system it took 5 hours. ● For processing a single image on gpu accelerated systems it takes 1-2 minutes. On Google colab it took 1 minute. Even on gpu accelerated system the results are not real time thus implementing this approach in real-time applications (webcams) is not a good idea.
  
- # Steps For Execution:
- # Using Google Colab (Recommended because fast and simple):
+ #  Steps For Execution:
+ #   Using Google Colab (Recommended because fast and simple):
  
  1.Open https://colab.research.google.com/drive/1dyNIUmj98xy5TSW9cgzzTv7mPyvSahpO#scr ollTo=o86SxoacBs_z​ in your browser.
 
