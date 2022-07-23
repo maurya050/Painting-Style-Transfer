@@ -11,7 +11,7 @@ Link to Research paper: ​https://arxiv.org/pdf/1508.06576.pdf
  ### Steps For Execution:
  #### Using Google Colab (Recommended because fast and simple):
  
-1.Open https://colab.research.google.com/drive/1dyNIUmj98xy5TSW9cgzzTv7mPyvSahpO#scr ollTo=o86SxoacBs_z​ in your browser.
+1.Open https://colab.research.google.com/drive/1dyNIUmj98xy5TSW9cgzzTv7mPyvSahpO#scrollTo=o86SxoacBs_z​ in your browser.
 
 2.Upload your Style and Content Image by clicking the upload button in the console.
 
