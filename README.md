@@ -72,4 +72,4 @@ an Picture of a valley in a hilly area as content image.
                             **(Available in Zip File)**
 ## Summary:
 
-According to me, both the approaches that we have seen  have their own advantages and disadvantages like the first Approach is slow but will directly work for all images where as second approach is fast but it is not directly fessible with any image. It will surely depend on the type of application that is being developed that which algorithm should be used. so, as per my point of view i like the second approach more as it is simple and fast and gives real-time result.
+According to me, both the approaches that we have seen  have their own advantages and disadvantages like the first approach is slow but will directly work for all images where as second approach is fast but it is not directly fessible with any image. It will surely depend on the type of application that is being developed that which algorithm should be used. so, as per my point of view i like the second approach more as it is simple and fast and gives real-time result.
