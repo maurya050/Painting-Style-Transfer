@@ -1,7 +1,7 @@
 # Painting-Style-Transfer
- Painting Style transfer is a computer vision/optimization technique that takes two images:- a content image and a style reference image—and blends them together so that the resulting output image retains the core elements of the content image, but appears to be “painted” in the style of the style reference image.
+Painting Style transfer is a optimization technique that takes two images:- a content image and a style reference image—and blends them together so that the resulting output image retains the core elements of the content image, but appears to be “painted” in the style of the style reference image.
 ## A Neural Algorithm of Artistic Style”
- In this approach we used a VGG network with function to combine both the style and content loss and then by optimizing this loss in one iteration we will reduce the style and content loss thus making the produced image better.
+ In this approach we have used a VGG network with function to combine both the style and content loss and then by optimizing this loss in one iteration we will reduce the style and content loss thus making the produced image better.
  
 Link to Research paper: ​https://arxiv.org/pdf/1508.06576.pdf
 
@@ -71,4 +71,4 @@ an Picture of a valley in a hilly area as content image.
 
 ## Summary:
 
-In my point of view both the approaches have their own advantages and disadvantages like the first one is slow but will directly work for all images where as second one is fast but it is not directly fessible with any image. It will surely depend on the type of application that is being developed that which algorithm should be used. In my personal opinion i like the second approach more as it is simple and fast and gives real-time result.
+According to me, both the approaches that we have seen  have their own advantages and disadvantages like the first Approach is slow but will directly work for all images where as second approach is fast but it is not directly fessible with any image. It will surely depend on the type of application that is being developed that which algorithm should be used. so, as per my point of view i like the second approach more as it is simple and fast and gives real-time result.
