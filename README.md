@@ -24,7 +24,7 @@ I tested using ​ The Starry Night ​painting by ​ Vincent van Gogh ​ (sug
 **Content Image**: https://www.flickr.com/photos/jeffdai/24778020652/
 
 **Result Image** : In Result Folder
-                  **(Available in Zip File)**
+                 
 # Style transfer on Images using “Justin Johnson”s paper on “Perceptual Losses for Real-Time Style Transfer and Super Resolution ”
 In this approach we used a FeedForward network with Perceptual Loss function and by optimizing this perceptual loss we will be making the produced image better. “Perceptual Loss” is the loss in order of higher level features of the image instead of pixel by pixel loss.
 
@@ -69,7 +69,7 @@ an Picture of a valley in a hilly area as content image.
 **Content Image:** https://www.flickr.com/photos/jeffdai/24778020652/
 
 **Result:** In result folder
-                            **(Available in Zip File)**
+                           
 ## Summary:
 
 According to me, both the approaches that we have seen  have their own advantages and disadvantages like the first approach is slow but will directly work for all images where as second approach is fast but it is not directly fessible with any image. It will surely depend on the type of application that is being developed that which algorithm should be used. so, as per my point of view i like the second approach more as it is simple and fast and gives real-time result.
